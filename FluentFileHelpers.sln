@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentFileHelpers", "FluentFileHelpers\FluentFileHelpers.csproj", "{05C3DFCF-2187-4163-839A-EF1CE4732077}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentFileHelpers.Tests", "FluentFileHelpers.Tests\FluentFileHelpers.Tests.csproj", "{18EAD23A-1814-4098-AD83-F4A60C624D32}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{05C3DFCF-2187-4163-839A-EF1CE4732077}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05C3DFCF-2187-4163-839A-EF1CE4732077}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05C3DFCF-2187-4163-839A-EF1CE4732077}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18EAD23A-1814-4098-AD83-F4A60C624D32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18EAD23A-1814-4098-AD83-F4A60C624D32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18EAD23A-1814-4098-AD83-F4A60C624D32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18EAD23A-1814-4098-AD83-F4A60C624D32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

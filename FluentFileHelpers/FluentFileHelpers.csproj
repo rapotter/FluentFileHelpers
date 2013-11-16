@@ -39,7 +39,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ClassMap.cs" />
+    <Compile Include="ClassMapBase.cs" />
+    <Compile Include="ClassProperty.cs" />
+    <Compile Include="Enum\Alignment.cs" />
+    <Compile Include="FluentFileHelpers.cs" />
+    <Compile Include="MapTypes.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SubClassDiscriminator.cs" />
+    <Compile Include="SubClassMap.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
